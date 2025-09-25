@@ -26,6 +26,9 @@ and analysis**. All images were manually labeled in **Label Studio**.
 ![Label Studio Screenshot](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/labelstudio_example.png)
 
 ## Analysis
+### Python  code
+![Python code](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/notebooks/annotation-coffee-analysis.ipynb)
+
 ### Class distribution
 ![Class distribution](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/class_distribution.png)
 
