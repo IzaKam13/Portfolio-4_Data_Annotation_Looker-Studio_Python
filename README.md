@@ -23,18 +23,18 @@ and analysis**. All images were manually labeled in **Label Studio**.
 - Final: 250 images
 - QA: random check of 15 images (consistent, no major corrections)
 
-![Label Studio Screenshot](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/reports/figures/labelstudio_example.png)
+![Label Studio Screenshot](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/labelstudio_example.png)
 
 ## Analysis
 ### Class distribution
-![Class distribution](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/reports/figures/class_distribution.png)
+![Class distribution](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/class_distribution.png)
 
 ### Bounding box area distribution
-![Box area](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/reports/figures/bbox_area.png)
+![Box area](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/bbox_area.png)
 
 ### Objects per image
-![Objects per image](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/reports/figures/objects_per_image.png)
+![Objects per image](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/reports/figures/objects_per_image.png)
 
 ## Exports
-- [YOLO format](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/exports/annotation-coffee-yolo.zip)
-- [COCO format](https://github.com/IzaKam13/Portfolio-3_Consulting_Materials-Testing_Python-Tableau/blob/main/exports/annotation-coffee-coco.zip)
+- [YOLO format](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/exports/annotation-coffee-yolo.zip)
+- [COCO format](https://github.com/IzaKam13/Portfolio-4_Data_Annotation_Looker-Studio_Python/blob/main/exports/annotation-coffee-coco.zip)
